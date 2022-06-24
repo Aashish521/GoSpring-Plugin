@@ -1,0 +1,48 @@
+/*!****************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[3]!./src/editor.scss ***!
+  \****************************************************************************************************************************************************************************************************************************************/
+/**
+ * The following styles get applied inside the editor only.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+.wp-block-create-block-npblock {
+  border: 1px dotted #f00;
+}
+
+#frm {
+  border: 5px solid #fcd814;
+  right: 51px;
+  width: 388px;
+  height: 430px;
+  resize: both;
+  overflow: hidden;
+}
+
+div#parentD {
+  background: rgb(214, 224, 224);
+  margin-left: 27.5%;
+  margin-right: 46%;
+  padding: 7px;
+  border-radius: 5px;
+  padding-top: 0px;
+  border: 2px solid;
+}
+
+input#input {
+  width: 98%;
+  border-radius: 2px;
+  padding: 4px;
+}
+
+label#label1 {
+  font: -webkit-small-control;
+  font-family: -webkit-body;
+}
+
+div#pfrm {
+  margin-left: 27.5%;
+  margin-top: 2px;
+}
+
+/*# sourceMappingURL=index.css.map*/

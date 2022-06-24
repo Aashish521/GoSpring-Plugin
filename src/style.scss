@@ -1,0 +1,19 @@
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+
+.wp-block-create-block-npblock {
+	background-color: #21759b;
+	color: #fff;
+	padding: 2px;
+}
+#frm{
+	border: 5px solid #fcd814;
+	width: 80%;
+	height: 480px;
+	resize: both;
+	padding: 1px;
+}
