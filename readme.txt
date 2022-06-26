@@ -1,4 +1,4 @@
-=== Np Block ===
+=== GoSpring ===
 Contributors:      aashish512 
 Donate link: https://gospring.ai/projects/mycontent
 Tags:              block
@@ -13,38 +13,36 @@ Example static block scaffolded with Create Block tool.
 
 == Description ==
 
-This is the long description. No limit, and you can use Markdown (as well as in the following sections).
-
-For backwards compatibility, if this section is missing, the full length of the short description will be used, and
-Markdown parsed.
+This is plugin for embeding GoSpring.ai quizzes to your wordpress websites.
+after installation just simply copy the gospring quiz shared url and paste it in block input
+which you will get in block section.
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
-
-e.g.
-
-1. Upload the plugin files to the `/wp-content/plugins/npblock` directory, or install the plugin through the WordPress plugins screen directly.
-1. Activate the plugin through the 'Plugins' screen in WordPress
-
+1. install the plugin through the WordPress plugins screen directly
+2. Activate the plugin through the 'Plugins' screen in WordPress.
+3. go to pages or post section whereever you want to add quiz
+4. go to the blocks and find Go Spring block
+5. paste the gospring quiz shared url. 
 
 == Frequently Asked Questions ==
 
-= A question that someone might have =
+= Can i only use this plugin for gospring quizzes ? =
 
-An answer to that question.
+yes its only applicable for gospring quizess other links won't work.
 
-= What about foo bar? =
+= How do i get gospring quiz url ?  =
 
-Answer to foo bar dilemma.
+you can just go to site gospring.ai after signning in you can create your own quiz. or selcet form others.
+
+
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the /assets directory or the directory that contains the stable readme.txt (tags or trunk). Screenshots in the /assets
-directory take precedence. For example, `/assets/screenshot-1.png` would win over `/tags/4.3/screenshot-1.png`
-(or jpg, jpeg, gif).
-2. This is the second screen shot
+1.where can user find the gospring block.
+2.when user paste the quiz url.
+3.when user done with the embeding.
+
 
 == Changelog ==
 
@@ -54,9 +52,8 @@ directory take precedence. For example, `/assets/screenshot-1.png` would win ove
 == Upgrade Notice ==
 
 = 1.0 =
-Upgrade notices describe the reason a user should upgrade.  No more than 300 characters.
+For new features users should upgrade the plugin time to time.
 == Arbitrary section ==
 
-You may provide arbitrary sections, in the same format as the ones above. This may be of use for extremely complicated
-plugins where more information needs to be conveyed that doesn't fit into the categories of "description" or
-"installation." Arbitrary sections will be shown below the built-in sections outlined above.
+If you want to create a gospring quiz you can do that easily by going to https://gospring.ai/ and sign in after sign in 
+you can create your own quiz at the end you will get the url to share with your friends or you can just paste the url in block to put that in your wordpress site.
