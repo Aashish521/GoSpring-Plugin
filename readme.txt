@@ -2,14 +2,14 @@
 Contributors:      aashish512 
 Donate link: https://gospring.ai/projects/mycontent
 Tags:              block
-Tested up to:      6.0
+Tested up to:      0.1.0
 Stable tag:        0.1.0
 Requires at least: 5.9
-  Requires PHP:      7.0
+Requires PHP:      7.0
 License:           GPL-2.0-or-later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
-Example static block scaffolded with Create Block tool.
+use this plugin to embed GoSpring.ai quiz in your wordpress site.
 
 == Description ==
 
@@ -47,11 +47,11 @@ you can just go to site gospring.ai after signning in you can create your own qu
 == Changelog ==
 
 = 0.1.0 =
-* Release
+* Initial upload of plugin.
 
 == Upgrade Notice ==
 
-= 1.0 =
+= 0.1.0 =
 For new features users should upgrade the plugin time to time.
 == Arbitrary section ==
 
